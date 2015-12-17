@@ -5,5 +5,6 @@ public class FirstTest {
 		System.out.println("Hello World");
 		System.out.println("GoodBye Eduwill");
 		System.out.println("This is orange");
+		System.out.println("This is apple");
 	}
 }
